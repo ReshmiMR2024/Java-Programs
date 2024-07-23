@@ -21,5 +21,12 @@ public class Marks extends Student {
 		obj.childmethod(20,30);
 
 	}
+	
+	
+	
+	
+	
+	
+	
 
 }
